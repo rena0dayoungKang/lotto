@@ -1,1 +1,2 @@
-"# 2025-08-10 °³¹ßÀÏÁö  ## ¿À´Ã ¸ñÇ¥ - ¹é (Spring Boot 3) È¯°æ¼³Á¤ - ÇÁ·ÐÆ® (React) È¯°æ¼³Á¤  ## ÁøÇà³»¿ë - Github ·¹Æ÷ »ý¼º ¹× Å¬·Ð, Æú´õ ±¸Á¶ »ý¼º ## ¹®Á¦/ÇØ°á ## ³»ÀÏ °èÈ¹ - API ¼³°è¼­ ÃÊ¾È " 
+# Date ## Today's Goal ## Progress ##Issue/Solve ## Tomorrow's Goal
+"# 2025-08-10  ## - ë°± (Spring Boot 3) í™˜ê²½ì„¤ì • - í”„ë¡ íŠ¸ (React) í™˜ê²½ì„¤ì •  ## Github ë ˆí¬ ìƒì„± ë° í´ë¡ , í´ë” êµ¬ì¡° ìƒì„± ## ## API ì„¤ê³„ì„œ ì´ˆì•ˆ " 
