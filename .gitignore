@@ -1,0 +1,17 @@
+# Java 
+/backend/build/ 
+/backend/out/ 
+/backend/.settings/
+/backend/.classpath 
+/backend/.project 
+ 
+# Node/React 
+/frontend/node_modules/ 
+/frontend/dist/ 
+/frontend/.env.local 
+ 
+# OS/IDE 
+.DS_Store 
+Thumbs.db 
+/.idea/ 
+/.vscode/ 
